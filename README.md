@@ -1,13 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Soumik-Coder18/Soumik-Coder18/main/assets/my-banner.svg"  />
+</p>
 <!-- Profile Banner Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Soumik+Bag!;MERN+Stack+Developer+🚀;Problem+Solver+🧠;Open+Source+Enthusiast+💻;Let’s+Build+Something+Great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Soumik+Bag!;MERN+Stack+Developer+🚀;Problem+Solver+🧠;Open+Source+Enthusiast+💻;Let’s+Build+Something+Great!" />
 </p>
-
-<!-- Panda Animation -->
-<p align="center">
-  <img src="https://lottie.host/f63037f1-0588-41b6-9886-165f658b46e6/R1ThwP8ki3.gif" width="200" alt="Panda Waving" />
-</p>
-
 ---
 
 # 👋 Hi, I'm Soumik Bag!
@@ -19,16 +16,22 @@
 
 ## 🧑‍💻 About Me
 
-<div style="display: flex;">
-  <ul>
-    <li>🎓 Pursuing B.Tech in IT at <strong>Techno Main Saltlake</strong></li>
-    <li>🛠 MERN Stack Developer with strong fundamentals</li>
-    <li>🧪 Experimenting with animations, microservices & backend scaling</li>
-    <li>🏆 1st Runner-Up at Inspirit Project Competition for <strong>AgroConnect</strong></li>
-    <li>🧭 Based in <strong>Domjur, Howrah – India</strong></li>
-  </ul>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="margin-left: 20px;" />
-</div>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
+- 🎓 Pursuing B.Tech in IT at **Techno Main Saltlake**  
+- 🛠 MERN Stack Developer with strong fundamentals  
+- 🧪 Experimenting with animations, microservices & backend scaling  
+- 🏆 1st Runner-Up at Inspirit Project Competition for **AgroConnect**  
+- 🧭 Based in **Domjur, Howrah – India**
+
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coder gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -37,28 +40,24 @@
 ### 🌾 [AgroConnect](https://agro-connectt.vercel.app/)
 > 🧺 _Farmer-to-Customer Marketplace_
 
-- 🌐 UI with Vite + React + Tailwind CSS  
-- 🛢 Backend: FastAPI & PostgreSQL  
-- 👨‍👩‍👦 Group project – I built the full frontend  
-🔗 [Source Code](https://github.com/SobhanBose/AgroConnect)  
-📄 [Synopsis](https://drive.google.com/file/d/1DrU59hNL3o4jOak0LIN3-iSvyme2LGH0/view)
+- 🌐 Vite + React + Tailwind CSS  
+- 🛢 FastAPI + PostgreSQL  
+🔗 [Code](https://github.com/SobhanBose/AgroConnect) • [Synopsis](https://drive.google.com/file/d/1DrU59hNL3o4jOak0LIN3-iSvyme2LGH0/view)
 
 ---
 
 ### 🎬 [WhisperFrame](https://github.com/Soumik-Coder18/My-OTT-Platform) *(In Progress)*
-> 🎞️ _OTT Streaming Platform_
+> 🎞️ _Full-stack OTT App_
 
-- 🎯 Full-stack solo project  
-- ⚙️ React, Tailwind, Express.js, Node.js, MongoDB
+- 💻 Stack: React, Tailwind, Express.js, MongoDB
 
 ---
 
 ### 📅 [EventHub](https://github.com/subhradeep09/Divertion-1.0) *(In Progress)*
-> 🎉 _Event Analytics & Management Web App_
+> 🎉 _Event Dashboard w/ Animation & Charts_
 
-- 💫 UI Animations: Framer Motion  
-- 📊 Visuals: Chart.js  
-- 📦 Stack: React, Express.js, MongoDB
+- 💫 Framer Motion, Chart.js  
+- 🔧 MongoDB + Express + React
 
 ---
 
@@ -107,7 +106,6 @@
 
 ## 🐍 Contribution Snake
 
-<!-- Make sure your GitHub Action is correctly configured -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Soumik-Coder18/Soumik-Coder18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
@@ -126,4 +124,4 @@
 
 ---
 
-> ⚡ *Thanks for visiting! Feel free to explore my repos and connect to collaborate.*
+> ⚡ *Thanks for visiting! Feel free to explore my repos and reach out for collaboration.*
