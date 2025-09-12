@@ -305,6 +305,23 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
 <br clear="right">
 
 ---
+
+<!-- 🌌 Footer Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=💜%20Thank%20You&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="Thank You"/>
+</p>
+
+<div align="center" style="margin-top: 10px;">
+
+  <p style="margin-top: 8px; color:#7E3ACE; font-weight:500;">
+    Thank you for visiting!<br/>
+    Made with ❤️ by <strong>Soumik Bag</strong><br/>
+  </p>
+</div>
+
+<br clear="right">
+
+
 <div align="center">
 
   <picture>
@@ -325,20 +342,5 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
   </picture>
 
 </div>
-<br clear="right">
 
----
-
-<!-- 🌌 Footer Section -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=💜%20Thank%20You&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="Thank You"/>
-</p>
-
-<div align="center" style="margin-top: 10px;">
-
-  <p style="margin-top: 8px; color:#7E3ACE; font-weight:500;">
-    Thank you for visiting!<br/>
-    Made with ❤️ by <strong>Soumik Bag</strong><br/>
-  </p>
-</div>
 <!-- COSMIC THEME README END -->
