@@ -305,6 +305,30 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
 <br clear="right">
 
 ---
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Soumik-Coder18/Soumik-Coder18/main/dist/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Soumik-Coder18/Soumik-Coder18/main/dist/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/Soumik-Coder18/Soumik-Coder18/main/dist/github-contribution-grid-snake.svg"
+      width="100%"
+      style="max-width: 800px; border-radius: 12px; border: 2px solid #7F3FBF;"
+    />
+  </picture>
+
+</div>
+<br clear="right">
+
+---
+
 <!-- 🌌 Footer Section -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=💜%20Thank%20You&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="Thank You"/>
