@@ -173,27 +173,24 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
 <!-- 🌌 Featured Projects Section -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=🌾%20AgroConnect&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="AgroConnect"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=🍳%20SnackyChef&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="SnackyChef"/>
 </p>
 
 <div align="center">
-  <p>A robust farmer-to-customer marketplace with real-time inventory, secure payments, and seamless delivery. Awarded 1st Runner-Up at Inspirit 2025.</p>
+  <p>Your AI-powered cooking companion. Discover recipes, manage grocery lists, and get step-by-step instructions.</p>
 
-  <!-- Tech Stack -->
   <p>
     <img src="https://img.shields.io/badge/React-7E3ACE?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-9E7BFF?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-7E3ACE?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express-9E7BFF?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/REST_API-7E3ACE?style=for-the-badge&logo=postman&logoColor=white" />
   </p>
 
-  <!-- Links -->
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/View_Live-9E7BFF?style=for-the-badge&logo=opsgenie&logoColor=white" alt="View Live" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Source_Code-7E3ACE?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/View_Live-9E7BFF?style=for-the-badge&logo=opsgenie&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Source_Code-7E3ACE?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 </div>
+
 
 ---
 
@@ -220,21 +217,25 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=🍳%20SnackyChef&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="SnackyChef"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=🌾%20AgroConnect&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="AgroConnect"/>
 </p>
 
 <div align="center">
-  <p>Your AI-powered cooking companion. Discover recipes, manage grocery lists, and get step-by-step instructions.</p>
+  <p>A robust farmer-to-customer marketplace with real-time inventory, secure payments, and seamless delivery. Awarded 1st Runner-Up at Inspirit 2025.</p>
 
+  <!-- Tech Stack -->
   <p>
     <img src="https://img.shields.io/badge/React-7E3ACE?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-9E7BFF?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-7E3ACE?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-9E7BFF?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST_API-7E3ACE?style=for-the-badge&logo=postman&logoColor=white" />
   </p>
 
+  <!-- Links -->
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/View_Live-9E7BFF?style=for-the-badge&logo=opsgenie&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Source_Code-7E3ACE?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/View_Live-9E7BFF?style=for-the-badge&logo=opsgenie&logoColor=white" alt="View Live" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Source_Code-7E3ACE?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
   </p>
 </div>
 
