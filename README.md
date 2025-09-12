@@ -61,7 +61,10 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
   <img src="assets/Skill.svg" alt="Skills Illustration" width="250"/>
 </p>
 
-<h3 align="center">🔤 Languages</h3>
+<!-- 🔤 Languages -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=🔤%20Languages&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="Languages"/>
+</p>
 <div align="center">
 
 | C | C++ | JavaScript |
@@ -72,7 +75,10 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
 
 ---
 
-<h3 align="center">🖥️ Frontend</h3>
+<!-- 🖥️ Frontend -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=🖥️%20Frontend&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="Frontend"/>
+</p>
 <div align="center">
 
 | React | TailwindCSS | Redux | Framer Motion | Chart.js |
@@ -83,7 +89,10 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
 
 ---
 
-<h3 align="center">⚙️ Backend</h3>
+<!-- ⚙️ Backend -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=⚙️%20Backend&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="Backend"/>
+</p>
 <div align="center">
 
 | Node.js | Express.js | REST API |
@@ -94,7 +103,10 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
 
 ---
 
-<h3 align="center">💾 Databases</h3>
+<!-- 💾 Databases -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=💾%20Databases&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="Databases"/>
+</p>
 <div align="center">
 
 | MongoDB | PostgreSQL | MySQL |
@@ -105,7 +117,11 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
 
 ---
 
-<h3 align="center">🧪 Tools & Others</h3>
+<!-- 🧪 Tools & Others -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=🧪%20Tools%20and%20Others&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="Tools & Others"/>
+</p>
+
 <div align="center">
 
 | Git | GitHub | VS Code | Figma |
@@ -288,12 +304,16 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
 <br clear="right">
 
 ---
+<!-- 🌌 Footer Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=💜%20Thank%20You&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="Thank You"/>
+</p>
 
-<div align="center">
-  
-Made with ❤️ and ☕ by Soumik Bag
+<div align="center" style="margin-top: 10px;">
 
-©️ 2025 - All rights reserved
-
+  <p style="margin-top: 8px; color:#7E3ACE; font-weight:500;">
+    Thank you for visiting!<br/>
+    Made with ❤️ by <strong>Soumik Bag</strong><br/>
+  </p>
 </div>
 <!-- COSMIC THEME README END -->
