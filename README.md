@@ -154,6 +154,27 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
   </tr>
 </table>
 
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Soumik-Coder18/Soumik-Coder18/main/dist/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Soumik-Coder18/Soumik-Coder18/main/dist/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/Soumik-Coder18/Soumik-Coder18/main/dist/github-contribution-grid-snake.svg"
+      width="100%"
+      style="max-width: 800px; border-radius: 12px; border: 2px solid #7F3FBF;"
+    />
+  </picture>
+
+</div>
+
 <!--GitHub Trophies-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7E3ACE&height=90&section=header&text=🏆%20GitHub%20Trophies&fontSize=36&fontColor=ffffff&fontAlignY=50" alt="GitHub Trophies"/>
@@ -306,6 +327,33 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
 
 ---
 
+
+<!-- LeetCode Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7E3ACE&height=90&section=header&text=🟣%20LeetCode%20Stats&fontSize=36&fontColor=ffffff&fontAlignY=50" alt="LeetCode Stats"/>
+</p>
+
+<div align="center">
+
+<!-- LeetCode Card -->
+<a href="https://leetcode.com/u/SoumikBag/">
+  <img src="https://leetcard.jacoblin.cool/SoumikBag?theme=purple&font=Baloo%20Bhai%202&ext=heatmap&border=0&radius=12" alt="Soumik's LeetCode Stats" />
+</a>
+
+<!-- LeetCode Profile Badge -->
+<p>
+  <a href="https://leetcode.com/u/SoumikBag/">
+    <img src="https://img.shields.io/badge/LeetCode-7E3ACE?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</p>
+
+</div>
+
+<br clear="right">
+
+
+---
+
 <!-- 🌌 Footer Section -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=60&section=header&text=💜%20Thank%20You&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="Thank You"/>
@@ -317,30 +365,6 @@ My mission is to merge *creativity* with *technology* to bring ideas to life.
     Thank you for visiting!<br/>
     Made with ❤️ by <strong>Soumik Bag</strong><br/>
   </p>
-</div>
-
-<br clear="right">
-
-
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Soumik-Coder18/Soumik-Coder18/main/dist/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Soumik-Coder18/Soumik-Coder18/main/dist/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution grid snake animation"
-      src="https://raw.githubusercontent.com/Soumik-Coder18/Soumik-Coder18/main/dist/github-contribution-grid-snake.svg"
-      width="100%"
-      style="max-width: 800px; border-radius: 12px; border: 2px solid #7F3FBF;"
-    />
-  </picture>
-
 </div>
 
 <!-- COSMIC THEME README END -->
